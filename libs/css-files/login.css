@@ -1,0 +1,31 @@
+#header{
+    background-color: #CD1719;
+    width: auto;
+    height: 140px;
+    text-align: center;
+   
+}
+.login-page{
+    width: 350px;
+    margin: 7% auto;
+    padding: 0 20px;
+    color: white;
+    background-color: #CD1719;
+    border: 1px solid #CD1719;
+    border-radius: 15px;
+  }.login-page .text-center{
+    margin-bottom: 10px;
+  }.box{
+    padding: 20px;
+    background-color: #f7ee9b;
+    border: 1px solid #f7ee9b;
+  }.page{
+    position: relative;
+    display: block;
+    top: 50px;
+    left: 0;
+    padding: 35px 15px 20px 270px;
+  }
+  body{
+      background-color:#d8d6c3;
+  }
